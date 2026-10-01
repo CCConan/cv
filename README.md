@@ -8,7 +8,7 @@ Single-page CV site, hand-built with plain HTML, CSS and a little vanilla JavaSc
 
 - `index.html` — the page
 - `styles.css` — styling (custom properties for the palette)
-- `script.js` — scroll-reveal, as progressive enhancement (the page is fully readable with JavaScript disabled)
+- `script.js` — scroll-reveal + EN/中文 language toggle (remembers choice; `?lang=zh` or `#zh` opens Chinese directly), as progressive enhancement (the page stays fully readable with JavaScript disabled)
 
 ## Run locally
 
